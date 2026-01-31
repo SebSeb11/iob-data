@@ -1,5 +1,5 @@
-fetch("https://raw.githubusercontent.com/SebSeb11/iob-data/main/temperature.html")
-  .then(r => r.text())
-  .then(html => {
-    document.getElementById("temperature").innerHTML = html;
-  });
+document.getElementById("temperature").innerHTML = `
+<span style="font-size: 2rem; font-weight: bold;">
+  9.7 °C (31.1.2026, 17:33:51)
+</span>
+`;
