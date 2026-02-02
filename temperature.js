@@ -1,8 +1,8 @@
 document.getElementById("temperature").innerHTML = `
 <span style="font-size: 1rem; font-weight: bold;">
-  10 °C 
+  9.8 °C 
 </span>
 <span style="font-size: 0.5rem;">
-  (2.2.2026, 03:55:06)
+  (2.2.2026, 05:55:33)
 </span>
 `;
