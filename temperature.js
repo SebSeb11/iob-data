@@ -7,7 +7,7 @@ document.getElementById("temperature").innerHTML = `
     9.5 °C
   </span>
   <span style="font-size: 0.5rem;">
-    (2.2.2026, 08:56:09)
+    (02.02.26, 08:56)
   </span>
 </div>
 `;
