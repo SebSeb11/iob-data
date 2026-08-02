@@ -4,10 +4,10 @@ document.getElementById("temperature").innerHTML = `
        alt="Temp"
        style="width:20px; height:20px; object-fit:contain;">
   <span style="font-size: 1rem; font-weight: bold;">
-    24.9 °C
+    24.8 °C
   </span>
   <span style="font-size: 0.5rem;">
-    (02.08.26, 06:38)
+    (02.08.26, 07:38)
   </span>
 </div>
 `;
